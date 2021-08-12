@@ -4,9 +4,10 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    print(f'Hello {name}. Welcome!')
+def print_hi(name, age):
 
+    print(f'Hello {name}. Welcome! Wow awesome you are {age}')
+    return 1
 
 
 # Press the green button in the gutter to run the script.
